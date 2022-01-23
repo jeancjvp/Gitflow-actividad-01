@@ -1,0 +1,4 @@
+class ClaseA {
+	foo;
+	bar;
+}
