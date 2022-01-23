@@ -1,6 +1,7 @@
 class ClaseA {
 	foo;
 	bar;
+	lorem;
 }
 
 class ClaseC {
