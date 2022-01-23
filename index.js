@@ -6,3 +6,7 @@ class ClaseA {
 class ClaseC {
 
 }
+
+class ClaseB {
+	
+}
